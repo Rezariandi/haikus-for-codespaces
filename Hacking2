@@ -1,0 +1,10 @@
+$ pkg install pembaruan && peningkatan pkg
+$ pkg install python2
+$ pkg install figlet
+$ pkg pasang hacking
+$ termux-setup-storage
+$ pkg instal php
+$ pkg instal git
+$ git clone https://github.com/rezariandi/HACK-ATM
+$cd HACK-ATM
+$sh ATM.sh
